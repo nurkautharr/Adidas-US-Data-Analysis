@@ -1,4 +1,4 @@
-## Adidas-US-Data-Analysis
+## Adidas US Data Analysis
 
 <p align="center">
 <img width="300" alt="Adidas Logo" src="https://github.com/user-attachments/assets/0c6f2345-c005-4511-9338-42371d8c8724" />
