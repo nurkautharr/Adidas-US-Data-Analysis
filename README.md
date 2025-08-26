@@ -3,13 +3,13 @@
 <p align="center">
 <img width="300" alt="Adidas Logo" src="https://github.com/user-attachments/assets/0c6f2345-c005-4511-9338-42371d8c8724" />
 
-#### Skills:
+### Skills:
 Data preparation, analystics, BI tool mastery, dashboard design, business storytelling
 
-#### Situation:
+### Situation:
 Identify a business problem of your interest that requires business intelligence and analytics solution. The problem can be from either profitable/non-profitable organization where with the use of BI can assist in decision making through analytics and visualization.
 
-#### Task:
+### Task:
 Generate the analysis that will assist management team to make strategic decisions. Leverage the Business Intelligence tool advantages to assist in completing the task. This analysis will be presented to the strategic management team, thus carefully decide on the level of aggregation of the datasets that will be used. This task can be listed as following:
 - Identify the business problem to set the context.
 - Identify data sources and perform data preparation.
@@ -17,7 +17,7 @@ Generate the analysis that will assist management team to make strategic decisio
 - Develop an appealing and informative dashboard.
 - Provide insights from the analysis.
 
-#### Action:
+### Action:
 #### 1. Data Preparation
 a) Identify the source of data.  
 b) Perform data integration from multiple sources where necessary.  
