@@ -24,16 +24,16 @@ b) Perform data integration from multiple sources where necessary.
 c) Perform data cleaning steps including removing duplicates, fixing structural errors, standardization of format or data type, handling missing data (if necessary) and perform data validation.
 
 #### 2. Dashboard Development and Data Story Telling
-a) Identify the objectives and set the context of analysis.
-b) Craft the storyline and choice of visualizations.
-c) Ingest dataset(s) that have been prepared into the tool that has been choosed to create the dashboard (e.g. Tableau, Power BI).
+a) Identify the objectives and set the context of analysis.  
+b) Craft the storyline and choice of visualizations.  
+c) Ingest dataset(s) that have been prepared into the tool that has been choosed to create the dashboard (e.g. Tableau, Power BI).  
 d) Build the dashboard based on the storyline and level of analytics required in Question (3)
 
 #### 3. Reporting of Analysis
-a) Conduct descriptive analytics on the dataset based on the context of the analysis.
-b) Based on interesting insights from (a), conduct a higher level of analytics (predictive/prescriptive) using the functionality provided in the Business Intelligence tool that has been choosed.
-c) Analyze the visualization created and discuss the insights.
-d) Provide suggestions to stakeholders relevant to the purpose of the project.
+a) Conduct descriptive analytics on the dataset based on the context of the analysis.  
+b) Based on interesting insights from (a), conduct a higher level of analytics (predictive/prescriptive) using the functionality provided in the Business Intelligence tool that has been choosed.  
+c) Analyze the visualization created and discuss the insights.  
+d) Provide suggestions to stakeholders relevant to the purpose of the project.  
 e) Write a report consisting of:
 - Business problem formulation
 - Relevant stakeholder(s)
