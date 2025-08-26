@@ -31,7 +31,7 @@ d) Build the dashboard based on the storyline and level of analytics required in
 
 #### 3. Reporting of Analysis
 a) Conduct descriptive analytics on the dataset based on the context of the analysis.  
-b) Based on interesting insights from (a), conduct a higher level of analytics (predictive/prescriptive) using the functionality provided in the Business Intelligence tool that has been choosed.  
+b) Based on interesting insights from (a), conduct a higher level of analytics (predictive/prescriptive) using the functionality provided in the business intelligence tool that has been choosed.  
 c) Analyze the visualization created and discuss the insights.  
 d) Provide suggestions to stakeholders relevant to the purpose of the project.  
 e) Write a report consisting of:
